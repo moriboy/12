@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+.border{
+	border-color: #000000;
+	bordrer-with: 10px;
+	border-style: dashed;	
+}

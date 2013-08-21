@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+.margin {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.colour{
+	color: #ffffff;	
+}
+
+.background{
+	background-color: #F00F00;
+	background-image: url(path/to/sprite.jpeg);
+	background-position: 10px 20px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
